@@ -3,7 +3,6 @@ import os
 import json
 import shutil
 import smtplib
-import time
 from datetime import datetime
 from plyer import notification as nt
 import pandas as pd
